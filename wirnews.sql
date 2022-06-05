@@ -39,8 +39,8 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`admin_id`, `admin_adiSoyadi`, `admin_mail`, `admin_sifre`, `yetki`) VALUES
-(1, 'Ebubekir Güner', 'ebubekirguner00@gmail.com', 'Ebubekir9.', '5'),
-(2, 'yusuf', 'yusuf@wiripco.com', '125690', '5');
+(1, 'Efnan Akyıldız', 'EfnanAky07@gmail.com', '123456', '5'),
+(2, 'Yeşim', 'yesimyucel2000@gmail.com', '125690', '5');
 
 -- --------------------------------------------------------
 
